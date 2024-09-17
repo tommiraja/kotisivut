@@ -1,0 +1,10 @@
+h1
+    {color: rgb(132, 0, 255);
+    font-weight: bold;}
+h2
+        {color: rgb(54, 157, 123);
+        font-style: inherit;
+    font-weight: 200;}
+p
+            {font-style: initial;}
+body{background-color: bisque;}    
